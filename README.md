@@ -1,9 +1,12 @@
 👋 Hi, I’m @ItsHaname
+
+
 👀 I’m interested in:
 ✨ Computer Science 🌐
 ✨ Exploring creative solutions in tech 💡
 
 🌱 I’m currently learning:
+
 📚 Programming concepts 💻
 📚 Computer memory systems 💾
 📚 Improving my skills in C 🐍 and JavaScript ✨
