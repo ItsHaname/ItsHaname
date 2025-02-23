@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, my name is Hanane</h1>
+<h1 align="center">
+  <marquee behavior="scroll" direction="right">Hello 👋, my name is Hanane</marquee>
+</h1>
 <h3 align="center">I am a computer science student at FSSM, passionate about networking and systems</h3>
 
 <p align="left"> 
@@ -57,8 +59,12 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&show_icons=true&locale=en&layout=compact" alt="ItsHaname" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&" alt="ItsHaname" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&show_icons=true&locale=en&layout=compact" alt="ItsHaname" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&" alt="ItsHaname" />
+</p>
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
