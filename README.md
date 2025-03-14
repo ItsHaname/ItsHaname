@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=ItsHaname&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ## 🚀 About Me
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=🎓+Currently+studying%3A+Database+Management%2C+Web+Development%2C+Networking%2C+and+C%2B%2B;🌱+Learning%3A+CSS+Grid%2C+Networking+Protocols%2C+Linux+System+Administration;💬+Ask+me+about%3A+Networking%2C+Software+Development%2C+Tech+Tools;📫+Reach+me+at%3A+h.aitbha8410@uca.ac.ma;⚡+Fun+fact%3A+I+get+easily+distracted...+but+that%E2%80%99s+how+I+discover+cool+new+things!" alt="Typing SVG" />
@@ -30,7 +32,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,html,css,js,git,python,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,html,css,js,git" alt="Tech Stack" />
 </p>
 
 ---
