@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="dream over.gif" alt="Hanane Banner" width="170%" height="250px" />
+  <img src="dream over.gif" alt="Hanane Banner" width="170%" height="300px" />
 
 </h1>
 
@@ -89,29 +89,37 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <!-- Pinterest Image -->
-  <img src="https://i.pinimg.com/736x/97/33/c0/9733c0a81e46e63b338a0ad8d7d1f768.jpg" alt="Pinterest Image" width="100px" height="100" />
-  <!-- Text next to the image -->
-  <p style="margin: 0; font-size: 14px;"><i>Code with this</i></p>
-</div>
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&layout=compact&theme=radical" height="150" />
-
-</div>
-
----
-
-## 🎮 Fun Zone
-<div align="center">
+  <div align="center">
   <img src="serial experiments lain GIF.gif" width="500" />
 </div>
+</div>
+
+
+---
+
+## 📊 **GitHub Stats** - My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&theme=radical" height="150" />
+  <br><br>
+  <i>💻 Coding Stats | 👩‍💻 Contributions</i>
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&theme=radical" height="150" />
+  <br><br>
+  <i>🔥 My Contribution Streak</i>
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&layout=compact&theme=radical" height="150" />
+  <br><br>
+  <i>📚 Most Used Languages</i>
+</p>
+
+---
+
+
+
 
 ---
 
