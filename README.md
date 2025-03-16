@@ -135,10 +135,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=🔥+I+love+discovering+new+tech+and+experimenting+with+different+programming+languages;🕹️+I+enjoy+playing+retro+games+and+watching+anime+in+my+free+time;🌍+My+dream+is+to+work+in+cybersecurity+and+network+engineering!" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="kim possible hair flip GIF.gif" width="500" />
-</div>
-
 ---
+
+## 📈 **GitHub Contribution Graph**
+
+[![ItsHaname's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsHaname&bg_color=000000&color=0000FF&line=0000FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ✨ *Thanks for stopping by! Feel free to check out my repositories and connect with me!* 🚀
