@@ -24,51 +24,86 @@
 </p>
 
 
-🌟 **Passionate about networks and IT technologies**  
-📌 **Computer Science student at FSSM**
+<h3>🌟 **Passionate about networks and IT technologies**</h3>  
+<h3>📌 **Computer Science student at FSSM**</h3>
 
 ---
 
-## 🎓 **Currently learning:**
+<h3>## 🎓 **Currently learning:**</h3>
 
-- 🌐 **Computer Networks**  
+- <h3> 🌐 **Computer Networks**</h3>  
    Configuration, protocols, security
 
-- 💻 **Web Development**  
+- <h3>💻 **Web Development**  </h3>
    HTML, CSS, JavaScript, Backend
-
-- 🖥️ **C++ Programming**  
+ - <h3> 🖥️ **C++ Programming**</h3>  
    Object-Oriented, Algorithms
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 **Connect with Me**
+
+<div align="center">
+  <h3>Let's Connect! 🚀</h3>
+  <p>Feel free to reach out to me on social media for exciting collaborations, discussions, and updates!</p>
+</div>
+
+<!-- Flex container to align text and image -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Social Media Links -->
+  <div>
+    <a href="https://instagram.com/a_b_hanane_" target="blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/your-twitter" target="blank">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </div>
+
+  <!-- Image of Lain (without background) -->
+  <div>
+    <img src="lain (1).jpg" width="200" alt="Lain Image" style="border-radius: 50%; background-color: transparent; box-shadow: none;" />
+  </div>
+</div>
+
+<div align="center">
+  <p><i>Don't hesitate to send me a message! Let's make something amazing together ✨</i></p>
+</div>
+
 <p align="center">
-  <a href="https://instagram.com/a_b_hanane_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <i>Feel free to connect with me on social media!</i>
 </p>
+
+
 
 ---
 
-## 💻 Tech Stack
+## 💻 **Tech Stack**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,html,css,js,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,html,css,js,git" alt="Tech Stack" width="450" />
 </p>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <!-- Pinterest Image -->
+  <img src="https://i.pinimg.com/736x/97/33/c0/9733c0a81e46e63b338a0ad8d7d1f768.jpg" alt="Pinterest Image" width="100px" height="100" />
+  <!-- Text next to the image -->
+  <p style="margin: 0; font-size: 14px;"><i>Code with this</i></p>
+</div>
+
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&layout=compact&theme=radical" height="150" />
+
 </div>
 
 ---
