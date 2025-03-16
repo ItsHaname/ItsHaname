@@ -1,6 +1,16 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Hanane!;Computer+Science+Student;Always+learning+new+things!" alt="Typing SVG" />
+<h1 align="center">
+  <img src="dream over.gif" alt="Hanane Banner" width="170%" height="250px" />
+
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0000FF&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B%2C+I'm+Hanane!;Computer+Science+Student;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsHaname&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,18 +20,25 @@
 
 ## 🚀 About Me
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=600&lines=🎓+Currently+studying%3A+Database+Management%2C+Web+Development%2C+Networking%2C+and+C%2B%2B;🌱+Learning%3A+CSS+Grid%2C+Networking+Protocols%2C+Linux+System+Administration;💬+Ask+me+about%3A+Networking%2C+Software+Development%2C+Tech+Tools;📫+Reach+me+at%3A+h.aitbha8410@uca.ac.ma;⚡+Fun+fact%3A+I+get+easily+distracted...+but+that%E2%80%99s+how+I+discover+cool+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=800&lines=🎓+Currently+studying%3A+Database+Management%2C+Web+Development%2C+Networking%2C+and+C%2B%2B;🌱+Learning%3A+CSS+Grid%2C+Networking+Protocols%2C+Linux+System+Administration;💬+Ask+me+about%3A+Networking%2C+Software+Development%2C+Tech+Tools;📫+Reach+me+at%3A+h.aitbha8410@uca.ac.ma;⚡+Fun+fact%3A+I+get+easily+distracted...+but+that%E2%80%99s+how+I+discover+cool+new+things!" alt="Typing SVG" />
 </p>
 
+
 🌟 **Passionate about networks and IT technologies**  
-📌 **Computer Science student at FSSM**  
+📌 **Computer Science student at FSSM**
 
-🎓 **Currently learning:**  
-   - **Computer Networks** (Configuration, protocols, security)  
-   - **Web Development** (HTML, CSS, JavaScript, Backend)  
-   - **C++ Programming**  
-   - **Database Management**  
+---
 
+## 🎓 **Currently learning:**
+
+- 🌐 **Computer Networks**  
+   Configuration, protocols, security
+
+- 💻 **Web Development**  
+   HTML, CSS, JavaScript, Backend
+
+- 🖥️ **C++ Programming**  
+   Object-Oriented, Algorithms
 
 ---
 
