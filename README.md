@@ -111,7 +111,7 @@
   <i>🔥 My Contribution Streak</i>
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsHaname&layout=compact&theme=radical" height="150" />
+  
   <br><br>
   <i>📚 Most Used Languages</i>
 </p>
