@@ -118,16 +118,17 @@
 
 ---
 
+### 🔥 **GitHub Activity**  
 
-
-
-
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsHaname&theme=tokyo-night&bg_color=0d1117&color=00ff99&line=ff0066&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />  
+</div>  
+----
 ## 👁️ Fun Facts
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=00FFF7&center=true&width=1000&lines=📡+Sometimes+I+understand+networks+better+than+people;🧩+I+fix+bugs+faster+than+my+sleep+schedule;🖤+I+trust+the+terminal+more+than+apps;📺+Yes%2C+I've+watched+Lain+too+many+times;🧠+Still+learning+cool+stuff+by+breaking+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1200&color=FF0066&center=true&width=1000&lines=📡+Sometimes+I+understand+networks+better+than+people;🧩+I+fix+bugs+faster+than+my+sleep+schedule;🖤+I+trust+the+terminal+more+than+apps;📺+Yes%2C+I've+watched+Lain+too+many+times;🧠+Still+learning+cool+stuff+by+breaking+things" />
 </p>
-
 
 
 
