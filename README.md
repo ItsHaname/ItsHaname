@@ -5,7 +5,7 @@
 </h1>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=48&pause=1000&color=0033CC&center=true&vCenter=true&width=1000&lines=Hello+World+%F0%9F%91%8B;Hello%2C+I'm+Hanane!;Computer+Science+Student+%7C+Network+Explorer;Always+learning+new+things+in+the+Wired..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=48&pause=1000&color=0033CC&center=true&vCenter=true&width=1000&lines=Hello+World+%F0%9F%91%8B;Hello%2C+I'm+Hanane!;Computer+Science+Student+%7C+;Always+learning+new+things+in+the+Wired..." alt="Typing SVG" />
 </p>
 <br>
 <p align="center">
@@ -18,7 +18,7 @@
 ## 👾 Who Am I?
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=1000&lines=I'm+Hanane+IT+student+at+FSSM;Passionate+about+networking+and+tech;Inspired+by+Lain+and+the+cyberworld;Dreaming+of+becoming+a+Cybersecurity+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=1000&lines=I'm+Hanane+IT+student+at+FSSM;Passionate+about+networking+;Inspired+by+Lain+and+the+cyberworld;Dreaming" />
 </p>
 
 
@@ -34,9 +34,9 @@
 <p align="center" style="max-width: 600px; font-size: 20px; color: #000000;">
   <ul style="list-style: none; padding: 0; line-height: 1.8; margin: 0 auto; max-width: 600px;">
     <li>🌐 <b>Computer Networks:</b> <i>Security, protocols, packet analysis</i></li>
-    <li>💻 <b>Web Development:</b> <i>HTML, CSS Grid, JavaScript, REST APIs</i></li>
+    <li>💻 <b>Web Development:</b> <i>HTML, CSS Grid, JavaScrip</i></li>
     <li>🖥️ <b>C++ Programming:</b> <i>Data structures, OOP, low-level systems</i></li>
-    <li>🐧 <b>Linux:</b> <i>Shell scripting, system administration</i></li>
+    <li>🐧 <b>Linux:</b> <i>Shell scripting</i></li>
   </ul>
 </p>
 
