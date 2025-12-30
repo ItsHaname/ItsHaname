@@ -16,7 +16,7 @@
 
 > *My personal cyberspace • A digital notebook where I document my learning journey*
 
-<a href="https://itshaname.github.io/CYBERIA">
+<a href="https://itshaname.github.io/">
   <img src="https://img.shields.io/badge/🚀_ENTER_CYBERIA-00d9ff?style=for-the-badge&labelColor=1a1a2e" height="45"/>
 </a>
 
