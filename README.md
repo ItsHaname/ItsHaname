@@ -59,12 +59,3 @@
 
 **Made with 💙 by Hanane**
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="30" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="30" />
-
-<br/><br/>
-
-</div>
