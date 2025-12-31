@@ -17,7 +17,7 @@
 > *My personal cyberspace • A digital notebook where I document my learning journey*
 
 <a href="https://itshaname.github.io/">
-  <img src="https://img.shields.io/badge/🚀_ENTER_CYBERIA-00d9ff?style=for-the-badge&labelColor=1a1a2e" height="45"/>
+  <img src="https://img.shields.io/badge/🚀_ENTER_CYBERIA-00d9ff?style=for-the-badge&labelColor=1a1a2e" height="60"/>
 </a>
 
 <br/><br/>
@@ -25,15 +25,15 @@
 ### 📡 Let's Connect
 
 <a href="https://instagram.com/a_b_hanane_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="90" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="90" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ItsHaname">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="190" />
 </a>
 
 <br/><br/>
