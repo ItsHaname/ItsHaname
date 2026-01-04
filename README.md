@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="190" />
 </a>
 
-<br/><br/>
+<b>
 
 ### 📊 GitHub Stats
 
