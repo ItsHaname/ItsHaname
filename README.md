@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Hanane+;Computer+Science+Student+;Cybersecurity+Enthusiast+;Welcome+to+my+digital+space" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Hanane+AITBAH+;Computer+Science+Student+;Cybersecurity+Enthusiast+;Welcome+to+my+digital+space" alt="Typing SVG" />
 
 <br/><br/>
 
