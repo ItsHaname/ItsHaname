@@ -36,12 +36,14 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="190" />
 </a>
 
-<b>
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10" height="180" />
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ItsHaname/ItsHaname/output/snake.svg)
 
 <br/><br/>
 
@@ -58,4 +60,4 @@
 <br/>
 
 **Present day Present time**
-
+</div>
