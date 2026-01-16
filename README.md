@@ -4,52 +4,46 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Hanane+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Network+Engineering+%F0%9F%8C%90;Welcome+to+my+digital+space+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Hanane+;Computer+Science+Student+;Cybersecurity+Enthusiast+;Welcome+to+my+digital+space" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ItsHaname&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="visitors" />
-
-<br/><br/>
 
 ### 🌐 CYBERIA CAFE & CLUB
 
 > *My personal cyberspace • A digital notebook where I document my learning journey*
 
 <a href="https://itshaname.github.io/">
-  <img src="https://img.shields.io/badge/🚀_ENTER_CYBERIA-00d9ff?style=for-the-badge&labelColor=1a1a2e" height="60"/>
+  <img src="https://img.shields.io/badge/_ENTER_CYBERIA-1E40AF?style=for-the-badge&labelColor=0F172A" height="60"/>
 </a>
 
 <br/><br/>
 
-### 📡 Let's Connect
+###  Let's Connect
 
 <a href="https://instagram.com/a_b_hanane_">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="90" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="90" />
+  <img src="https://img.shields.io/badge/LINKEDIN-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" height="90" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ItsHaname">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="190" />
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" height="90" />
 </a>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=CBD5E1&icon_color=60A5FA&border_radius=10" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&hide_border=true&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6&border_radius=10" height="180" />
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ItsHaname/ItsHaname/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ItsHaname/ItsHaname/output/snake-dark.svg?color_snake=1E40AF&color_dots=000000&theme=dark)
+###  Activity Graph
 
-<br/><br/>
-
-### ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsHaname&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true&border_radius=10" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsHaname&bg_color=0F172A&color=3B82F6&line=60A5FA&point=93C5FD&area=true&hide_border=true&border_radius=10" width="95%" />
 
 <br/><br/>
 
