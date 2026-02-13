@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/_CYBERIA_BLOG-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" height="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cyberia-1.gitbook.io/raspberry-pi/">
+<a href="https://fssm.gitbook.io/fssm-docs/">
   <img src="https://img.shields.io/badge/_CYBERIA_GITBOOK-3B82F6?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0F172A" height="60"/>
 </a>
 
