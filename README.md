@@ -25,7 +25,12 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ItsHaname&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=00d9ff&text_color=c9d1d9&border_radius=12" height="140" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=8b949e&dates=8b949e&border_radius=12" height="140" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsHaname&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00d9ff&sideLabels=8b949e&dates=8b949e&border_radius=12" height="140" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsHaname&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHaname&theme=github_dark" height="180" />
 
 <br/><br/>
 
